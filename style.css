@@ -1,0 +1,25 @@
+.para1{
+    background-color: black;
+    font-size: 100px;
+    color: white;
+    width:30%;
+    height: 100%;
+    text-align: center;
+    margin-left: 800px;
+}
+
+/* body{
+    background-color: black;
+} */
+
+/* #img{
+    width: 15%;
+    height: 15%;
+    display: block;
+    margin: 0 auto;
+} */
+body{
+    background-image: url(profile_pic.jpeg);
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+}
